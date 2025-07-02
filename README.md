@@ -1,16 +1,61 @@
-## Hi there 👋
+## Harry Bridgen
 
-<!--
-**harrybridgen/harrybridgen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Java focused developer with a strong foundation in object-oriented programming
+- Educated in Computer Science at the University of Nottingham, with a strong emphasis on systems-level thinking
+- Software developer passionate about backend architecture, concurrency, and game design
+- UK-based, actively pursuing opportunities in Poland
+- Solo creator of Blothera and MiniQuest, two ambitious and original game projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Highlights
+
+### Blothera
+A fully original Minecraft server world with 20+ handcrafted plugins  
+**Tech**: Java, SQL, server architecture, custom systems design
+
+### MiniQuest
+Standalone 2D game made in Python (Pygame)  
+**Features**: NPC AI, quests, inventory, multi-map world and much more...
+
+### Other Projects
+- CPU Simulator (Concurrency, RR scheduling)  
+- Haskell Compiler  
+- Renderer in Python, using linear transformations and projection (3D)
+- Interactive Music Player Android App  
+- Symmetric Encryption (CAST-384)
+- Tech Stack: modern web development (PHP, JS, etc)
+
+> *Some projects not shown on this GitHub. Full project list available on request. Some source code is not publicly available due to intellectual property restrictions.*
+
+---
+
+## Skills
+
+- **Tools:** Git, OpenGL, SQL, PHP, Android, Linux
+- **Languages:** Java, Python, Haskell, C, C++, JavaScript  
+- **Core Areas:** OOP, FP, game loops, concurrency, network systems, compiler design, system design
+- **Favourite:** Games, OOP, Design
+
+---
+
+## Contact & Links
+
+- harrybridgen@gmail.com  
+- [GitHub](https://github.com/harrybridgen)  
+- [LinkedIn](https://www.linkedin.com/in/harrybridgen/)
+
+---
+
+## Project Links
+
+### Blothera  
+- [Website](https://blothera.com/)  
+- [Discord](https://discord.gg/9dSgUYPz7h)  
+- [GitHub Org](https://github.com/Blothera)
+
+### MiniQuest  
+- [Discord](https://discord.gg/TtPECbJTPX)  
+- [GitHub Org](https://github.com/MiniQuestDEV)
+
+
