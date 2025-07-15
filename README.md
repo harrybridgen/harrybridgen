@@ -3,7 +3,7 @@
 - Java focused developer with a strong foundation in object-oriented programming
 - Educated in Computer Science at the University of Nottingham, with a strong emphasis on systems-level thinking
 - Software developer passionate about backend architecture, concurrency, and game design
-- UK-based
+- UK-based, willing to relocate anywhere in Europe
 - Solo creator of Blothera and MiniQuest, two ambitious and original game projects
 
 ---
