@@ -11,8 +11,7 @@
 ## Highlights
 
 ### Blothera
-A fully original Minecraft server world with 25+ handcrafted plugins  
-**Tech**: Java, SQL, server architecture, custom systems design
+For over a decade, I’ve designed, maintained, and reimagined Blothera. A persistent multiplayer sandbox with custom lore, combat systems, diplomacy mechanics, and community governance. It is a decade-long case study in player-driven design, systems thinking, and production leadership. The latest version is built from the ground up on custom Java plugins and serves as a living portfolio of my work in architecture, backend design, and real-time game logic.
 
 ### MiniQuest
 Standalone 2D game made in Python (Pygame)  
