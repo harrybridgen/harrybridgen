@@ -11,7 +11,7 @@
 ## Highlights
 
 ### Blothera
-A fully original Minecraft server world with 20+ handcrafted plugins  
+A fully original Minecraft server world with 25+ handcrafted plugins  
 **Tech**: Java, SQL, server architecture, custom systems design
 
 ### MiniQuest
@@ -34,7 +34,7 @@ Standalone 2D game made in Python (Pygame)
 
 - **Tools:** Git, OpenGL, SQL, PHP, Android, Linux
 - **Languages:** Java, Python, Haskell, C, C++, JavaScript  
-- **Core Areas:** OOP, FP, game loops, concurrency, network systems, compiler design, system design
+- **Core Areas:** OOP, FP, game loops, concurrency, network systems, compiler design, system design, 3D rendering
 - **Favourite:** Games, OOP, Design
 
 ---
