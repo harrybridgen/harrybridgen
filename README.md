@@ -1,5 +1,5 @@
 ## Harry Bridgen
-- 📄 [Download My CV (PDF)](https://github.com/harrybridgen/harrybridgen/blob/main/HarryBridgenCV.pdf)
+📄 [View My CV (PDF)](https://github.com/harrybridgen/harrybridgen/blob/main/HarryBridgenCV.pdf)
 
 - Java focused developer with a strong foundation in object-oriented programming
 - Educated in Computer Science at the University of Nottingham, with a strong emphasis on systems-level thinking
